@@ -6,7 +6,7 @@ Fictional FinTech case study: designing and stress-testing a system prompt that 
 **A FinTech case study on when a plain chat is enough and when a business needs a system prompt.**
 
 
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · [Month Year]
+Author: Daksh kapoor · BBA (FinTech), Chitkara Business School · Tool: ChatGPT · Nov2026
 
 
 ## The case
